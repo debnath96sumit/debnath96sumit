@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumit Debnath
+- 👋 Hi, this is Sumit
 - 👀 I’m very much interested in tech and fitness 
 - 🌱 I’m currently learning python, and javascript
 - 💞️ I’m looking for a fresher or entry level developer job
