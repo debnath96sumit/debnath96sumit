@@ -1,7 +1,7 @@
 - 👋 Hi, this is Sumit
 - 👀 I’m very much interested in tech and fitness 
 - 🌱 I’m currently learning python, django and mysql
-- 💞️ I’m looking for a fresher web developer job/internship
+- 💞️ I’m currently working as a Associate software developer
 - 📫 How to reach me ...@debnathsumit558@gmail.com
 
 <!---
