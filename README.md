@@ -1,7 +1,7 @@
 - 👋 Hi, this is Sumit
 - 👀 I’m very much interested in tech and fitness 
-- 🌱 I’m currently learning python, django and mysql
-- 💞️ I’m currently working as a Associate software developer
+- 🌱 I’m currently using TypeScript, Node.js, and GraphQL
+- 💞️ I’m currently working as an Associate Software Developer
 - 📫 How to reach me ...@debnathsumit558@gmail.com
 
 <!---
