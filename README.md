@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sumit
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+NestJS+%7C+TypeScript;Building+Scalable+APIs+%26+Systems;Open+to+Remote+%26+Kolkata+Opportunities)](https://github.com/debnath96sumit)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+NestJS+%7C+TypeScript;Building+Scalable+APIs+%26+Systems;Open+to+Remote+%26+or+anywhere+in+india)](https://github.com/debnath96sumit)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=debnath96sumit&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/debnath96sumit)
 [![GitHub followers](https://img.shields.io/github/followers/debnath96sumit?label=Followers&style=flat&logo=github)](https://github.com/debnath96sumit)
