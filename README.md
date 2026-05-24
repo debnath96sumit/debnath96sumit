@@ -72,11 +72,20 @@ A full-stack AI chat application with a Strategy-pattern LLM provider layer supp
 
 ---
 
-### [E-Commerce Microservices Backend](https://github.com/debnath96sumit/ecommerce-backend)
+### Real-Time Collaborative Docs Platform | [Backend](https://github.com/debnath96sumit/collab-app-backend) | [Frontend](https://github.com/debnath96sumit/collab-app-frontend)
 
-A microservices backend demonstrating service decomposition, inter-service communication, and independent deployability for an e-commerce domain.
+A Google Docs–style real-time collaborative editing platform where multiple users can simultaneously edit documents, invite collaborators, and see live updates instantly. Built with a scalable event-driven architecture supporting authentication, workspace collaboration, and synchronized document state management.
 
-**Tech Stack:** Node.js, TypeScript, Docker
+**Why built:** I wanted to deeply understand the challenges behind real-time collaborative systems — especially concurrent editing, socket-based synchronization, and designing scalable collaboration workflows similar to Google Docs.
+
+**Interesting decisions:**
+
+* Real-time collaborative editing using Socket.IO event synchronization
+* Role/invite-based collaborator management workflow
+* Modular NestJS backend architecture for scalable feature separation
+* Optimized document state handling for multi-user concurrent editing
+
+**Tech Stack:** NestJS, TypeScript, MongoDB, Socket.IO, JWT Authentication, React
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header)
 
